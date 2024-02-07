@@ -2,6 +2,6 @@
   "name": "MNS",
   "website": "https://linktr.ee/mneslisahsuicmez",
   "description": "MNS node",
-  "logo": "https://drive.google.com/file/d/1mztb5p6S0mLMD7NbDeVotIclvBqLzIV3/view?usp=drive_link",
+  "logo": "https://static.vecteezy.com/system/resources/previews/026/758/536/non_2x/dna-with-ai-generated-free-png.png",
   "twitter": "https://twitter.com/mnesssuuu"
 }
