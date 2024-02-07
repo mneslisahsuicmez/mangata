@@ -1,4 +1,3 @@
-  GNU nano 6.2                                    metadata.json *                                           
 {
   "name": "MNS",
   "website": "https://linktr.ee/mneslisahsuicmez"
