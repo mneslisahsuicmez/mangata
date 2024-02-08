@@ -2,6 +2,6 @@
   "name": "MNS",
   "website": "https://linktr.ee/mneslisahsuicmez",
   "description": "MNS node",
-  "logo": "https://e7.pngegg.com/pngimages/992/900/png-clipart-dna-dna-thumbnail.png",
+  "logo": "https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c325.png",
   "twitter": "https://twitter.com/mnesssuuu"
 }
